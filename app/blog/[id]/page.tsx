@@ -4,5 +4,5 @@ type Props = {
     }
 }
 export default function Post({params: {id}}: Props) {
-    return <h2>Post {id}</h2>
+    return <h2>Post {id}a</h2>
 }
